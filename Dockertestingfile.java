@@ -4,7 +4,7 @@ public class Dockertestingfile {
  {
   System.out.println("Static method");
   System.out.println("Static method");
-
+  System.out.println("Static method");
  }
 
 
