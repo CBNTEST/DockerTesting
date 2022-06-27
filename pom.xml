@@ -14,4 +14,9 @@
         <finalName>docker-jenkins-integration-sample</finalName>
 
     </build>
+
+  <!--<build>
+    <finalName>docker-jenkins-integration-sample</finalName>
+
+  </build>-->
 </project>

@@ -8,5 +8,12 @@ public class Dockertestingfile {
   System.out.println("Static method latest one");
   System.out.println("Static method latest one _Latest one ");
   System.out.println("Static method latest one _Latest one ");
+System.out.println("Static method testing successfully");
+
+
+
+
+
+
  }
 }
